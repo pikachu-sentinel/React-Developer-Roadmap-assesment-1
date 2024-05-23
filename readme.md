@@ -6,7 +6,7 @@
 - **React:** Utilize React to build the application components.
 - **React-Hook:** Implement hooks to manage state and side effects within the application.
 - **CSS (Tailwind is mandatory):** Use Tailwind CSS for styling the application.
-- **JavaScript/TypeScript (optional but TypeScript is better):** The application can be built using JavaScript, but TypeScript is preferred for type safety and better code management.
+- **TypeScript**
 - **Responsive Design:** Ensure the application is responsive and works well on different screen sizes and devices.
 
 **Project Objective:**
@@ -26,7 +26,7 @@
    - Use Tailwind CSS for all styling purposes.
    - Ensure a clean, modern, and professional look that closely mimics the Upwork signup and signin pages.
 
-4. **TypeScript (Preferred):**
+4. **TypeScript**
    - Use TypeScript to enhance code quality and maintainability.
    - Define appropriate types and interfaces for props and state.
 
